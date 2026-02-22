@@ -1,0 +1,17 @@
+# Dataset
+archive*/
+*.zip
+
+# Model files
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
